@@ -1,0 +1,2 @@
+# premium-qa-strategy-001-test-automation-strategy-bluep
+Your test automation efforts are scattered across spreadsheets and Slack messages, yet your team still can't agree on what to test first or how to scale coverage. The Test Automation Strategy Blueprint Template solves this by giving you a battle-tested framework to centralize your entire automation strategy in one living Notion workspace.  This tem
